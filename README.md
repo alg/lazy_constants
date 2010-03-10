@@ -7,6 +7,14 @@ has finished or any other event). The answer would be Lazy Constants
 that evaluate their value when first accessed.
 
 
+Installation
+============
+
+As a plugin:
+
+	script/plugin install http://github.com/alg/lazy_constants.git
+
+
 Definition
 ==========
 
@@ -25,6 +33,7 @@ LazyConstants module:
 	  include LazyConstants
 	  ...
 	end
+
 
 
 Usage
